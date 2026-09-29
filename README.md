@@ -1,10 +1,7 @@
 <div data-importer="image" align="center">
-  <img width="500" height="300" alt="programador_fone_preto_camisa_preta" src="https://github.com/user-attachments/assets/f383388b-3e6e-4893-86ad-e3c5c580689f" />
+  <img width="400" height="200" alt="programador_fone_preto_camisa_preta" src="https://github.com/user-attachments/assets/f383388b-3e6e-4893-86ad-e3c5c580689f" />
 
 </div>
-
-###
-
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
