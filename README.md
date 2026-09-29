@@ -14,15 +14,15 @@
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me:</h3>
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p data-importer="text" align="left">I'm a developer from Brazil learning every day.<br><br>- 🔭 I'm studying to become a full stack web developer.<br>- 📚 I'm currently learning React.<br>- ⚡ In my free time, I like reading classics and drinking a lot of coffee.</p>
+<p data-importer="text" align="left">I'm a developer from Brazil who is learning every day.<br><br>- 🔭 I'm studying to become a full stack developer.<br>- 📚 I'm currently learning React.<br>- ⚡ In my free time, I like reading classics and drinking a lot of coffee.</p>
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools:</h3>
+<h3 data-importer="text" align="left">🛠 Languages and tools</h3>
 
 ###
 
