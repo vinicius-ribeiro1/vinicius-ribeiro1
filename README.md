@@ -1,5 +1,5 @@
 
-<div data-importer="image">
+<div data-importer="image" align="center">
   <img width="400" height="250" alt="programador_fone_camisa_preta" src="https://github.com/user-attachments/assets/46e1d9c1-d0ca-4875-b517-2037e80b2af2" />
 
 </div>
@@ -11,7 +11,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">Hi there 👋 I'm Vinicius</h2>
+<h2 data-importer="text">Hi there 👋 I'm Vinicius</h2>
 
 ###
 
